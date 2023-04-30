@@ -192,3 +192,55 @@ table td {
     margin-top: 50px;
     margin-bottom: 113px;
 }
+
+/* footer */
+.footer {
+    background: #FFF8F3;
+    margin-top: 113px;
+}
+
+.contact-title {
+    font-weight: 700;
+    font-size: 35px;
+
+}
+
+.contact-description {
+    font-weight: 400;
+    font-size: 16px;
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.contact {
+
+    display: flex;
+    gap: 117px;
+}
+
+.contact-me {
+    margin-left: 130px;
+}
+
+.contact-me,
+.message {
+    margin-top: 130px;
+}
+
+.text {
+    border: 0;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 18px 200px 18px 30px;
+    margin-bottom: 24px;
+    display: block;
+    /* width: 461px; */
+}
+
+.message-title {
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 28px;
+}
